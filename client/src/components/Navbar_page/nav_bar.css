@@ -1,0 +1,39 @@
+.navbar{
+    background-color: rgb(237, 237, 237);
+}
+.navbar-brand{
+    font-size: 40px;
+    font-family: monospace;
+    margin-top: 10px;
+}
+
+.navbar-nav{
+    padding-left: 25px;
+
+}
+ul{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+  
+.nav{
+    background-color: navy;
+
+
+ }
+ .items{
+    color: azure
+ }
+ .items:hover{
+    color: rgb(255, 255, 255);
+ }
+.dropdown:hover > .dropdown-menu, .dropend:hover > .dropdown-menu{
+    display: block;
+    /* margin-top: 0.125em; */
+} 
+.dropend:hover > .dropdown-menu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+  }
