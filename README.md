@@ -10,7 +10,7 @@
 
 
 ## Features:
- [*] Landing Page
+ [ ] Landing Page
    [*] Navbar
    [*] Search Box
    [*] Signin Page
