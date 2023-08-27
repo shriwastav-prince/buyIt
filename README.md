@@ -9,16 +9,16 @@
 * MongoDB
 
 
-##Features:
- [] Landing Page
-   [] Navbar
-   [] Search Box
-   [] Signin Page
-   [] Login Page
- [] Categories
- [] AboutUs Page
- [] ContactUs Page
- [] Add to Cart
- [] WishList
+## Features:
+ [*] Landing Page
+   [*] Navbar
+   [*] Search Box
+   [*] Signin Page
+   [*] Login Page
+ [*] Categories
+ [*] AboutUs Page
+ [*] ContactUs Page
+ [*] Add to Cart
+ [*] WishList
 
  
