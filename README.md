@@ -10,15 +10,15 @@
 
 
 ## Features:
- [ ] Landing Page
-   [*] Navbar
-   [*] Search Box
-   [*] Signin Page
-   [*] Login Page
- [*] Categories
- [*] AboutUs Page
- [*] ContactUs Page
- [*] Add to Cart
- [*] WishList
+ * Landing Page
+   * Navbar
+   * Search Box
+   * Signin Page
+   * Login Page
+ * Categories
+ * AboutUs Page
+ * ContactUs Page
+ * Add to Cart
+ * WishList
 
  
